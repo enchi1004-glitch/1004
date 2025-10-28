@@ -1,0 +1,5 @@
+Game_name:新的游戏;
+Game_key:1efcd74f8c01002;
+Title_img:WebGAL_New_Enter_Image.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
